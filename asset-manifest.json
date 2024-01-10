@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/texthub/static/css/main.5e2de0eb.css",
+    "main.js": "/texthub/static/js/main.2b202216.js",
+    "index.html": "/texthub/index.html",
+    "main.5e2de0eb.css.map": "/texthub/static/css/main.5e2de0eb.css.map",
+    "main.2b202216.js.map": "/texthub/static/js/main.2b202216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2de0eb.css",
+    "static/js/main.2b202216.js"
+  ]
+}
